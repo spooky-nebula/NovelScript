@@ -1,6 +1,6 @@
 # NovelScript-Engine
 
-This is my attempt of making a javascript visual novel engine
+This is my attempt of making a javascript visual novel engine.
 
 Now let's get _This_ straight:
 
@@ -13,11 +13,11 @@ Now let's get _This_ straight:
 
 ### What stage are we in right now?
 
-Ready to start strong
+Ready to start strong.
 
 ### Can you depend on this project to be done for your visual novel?
 
-No but this should be completed sooner than Incel Highschool since we need a more complex engine than Ren'Py
+No but this should be completed sooner than Incel Highschool since we need a more complex engine than Ren'Py.
 
 ### Why make this?
 
@@ -25,7 +25,7 @@ I was having trouble with Ren'Py since I wanted more than just dialogue and a st
 
 ### Is this going to be cross-platform?
 
-Fortunately yes, since Electron and Node.js are cross-platform then this can easily be used as a library in most cases
+Fortunately yes, since Electron and Node.js are cross-platform then this can easily be used as a library in most cases.
 
 ### How can I contribute?
 
