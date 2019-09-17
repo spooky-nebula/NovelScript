@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spooky-nebula/incel-highschool.git"
+    "url": "git+https://github.com/spooky-nebula/novelscript-engine.git"
   },
   "keywords": [
     "engine",
@@ -18,9 +18,9 @@
   "author": "Spooky Nebula",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/spooky-nebula/incel-highschool/issues"
+    "url": "https://github.com/spooky-nebula/NovelScript-Engine/issues"
   },
-  "homepage": "https://github.com/spooky-nebula/incel-highschool#readme",
+  "homepage": "https://novelscript.spookynebula.com/",
   "dependencies": {
     "electron": "^6.0.9",
     "electron-packager": "^14.0.6",
