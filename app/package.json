@@ -1,0 +1,33 @@
+{
+  "name": "novelscript-engine",
+  "version": "1.0.0",
+  "description": "Engine created for Incel Highschool based on Nodejs and Electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spooky-nebula/incel-highschool.git"
+  },
+  "keywords": [
+    "engine",
+    "electron",
+    "node"
+  ],
+  "author": "Spooky Nebula",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spooky-nebula/incel-highschool/issues"
+  },
+  "homepage": "https://github.com/spooky-nebula/incel-highschool#readme",
+  "dependencies": {
+    "electron": "^6.0.9",
+    "electron-packager": "^14.0.6",
+    "fs": "0.0.1-security",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.8.6"
+  }
+}
