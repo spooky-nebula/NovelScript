@@ -60,6 +60,6 @@ typings/
 # next.js build output
 .next
 
+# Ignore test files bro
 app/testAssets
-
 app/test.js
