@@ -63,3 +63,4 @@ typings/
 # Ignore test files bro
 app/testAssets
 app/test.js
+app/test*.html
