@@ -1,0 +1,225 @@
+<style media="screen">
+  @keyframes joy {
+    from {
+      transform: translateY(0px);
+    }
+
+    50% {
+      transform: translateY(-16px);
+    }
+
+    to {
+      transform: translateY(0px);
+    }
+  }
+
+  @keyframes anger {
+    from {
+      transform: translateX(0px);
+      filter: saturate(1);
+    }
+
+    25% {
+      transform: translateX(16px);
+      filter: saturate(2);
+    }
+
+    50% {
+      transform: translateX(-16px);
+      filter: saturate(1);
+    }
+
+    75% {
+      transform: translateX(16px);
+      filter: saturate(2);
+    }
+
+    to {
+      transform: translateX(0px);
+      filter: saturate(1);
+    }
+  }
+
+  @keyframes sad {
+    from {
+      transform: translateY(0px);
+    }
+
+    to {
+      transform: translateY(0px);
+    }
+  }
+
+  @keyframes fear {
+    from {
+      transform: translateX(0px);
+    }
+
+    25% {
+      transform: translateX(-16px);
+    }
+
+    50% {
+      transform: translateX(16px);
+    }
+
+    75% {
+      transform: translateX(-16px);
+    }
+
+    to {
+      transform: translateX(0px);
+    }
+  }
+
+  @keyframes suprised {
+    from {
+      transform: translateY(0px);
+    }
+
+    50% {
+      transform: translateY(-16px);
+    }
+
+    to {
+      transform: translateY(0px);
+    }
+  }
+
+  @keyframes disgust {
+    from {
+      transform: translateX(0px);
+    }
+
+    25% {
+      transform: translateX(-16px);
+    }
+
+    50% {
+      transform: translateX(16px);
+    }
+
+    75% {
+      transform: translateX(-16px);
+    }
+
+    to {
+      transform: translateX(0px);
+    }
+  }
+
+  @keyframes anticipation {
+    from {
+      transform: translateY(0px);
+    }
+
+    50% {
+      transform: translateY(-16px);
+    }
+
+    to {
+      transform: translateY(0px);
+    }
+  }
+
+  @keyframes flirty {
+    from {
+      transform: translateY(0px);
+    }
+
+    50% {
+      transform: translateY(-16px);
+    }
+
+    to {
+      transform: translateY(0px);
+    }
+  }
+
+  @keyframes trust {
+    from {
+      transform: translateY(0px);
+    }
+
+    50% {
+      transform: translateY(-16px);
+    }
+
+    to {
+      transform: translateY(0px);
+    }
+  }
+
+  @keyframes regret {
+    from {
+      transform: translateX(0px);
+    }
+
+    25% {
+      transform: translateX(-16px);
+    }
+
+    50% {
+      transform: translateX(16px);
+    }
+
+    75% {
+      transform: translateX(-16px);
+    }
+
+    to {
+      transform: translateX(0px);
+    }
+  }
+
+  .joy {
+    animation: joy 0.5s normal forwards;
+  }
+
+  .anger {
+    animation: anger 0.5s normal forwards;
+  }
+
+  .sad {
+    animation: sad 0.5s normal forwards;
+  }
+
+  .fear {
+    animation: fear 0.5s normal forwards;
+  }
+
+  .suprise {
+    animation: suprise 0.5s normal forwards;
+  }
+
+  .disgust {
+    animation: disgust 0.5s normal forwards;
+  }
+
+  .disgust {
+    animation: disgust 0.5s normal forwards;
+  }
+
+  .anticipation {
+    animation: anticipation 0.5s normal forwards;
+  }
+
+  .trust {
+    animation: trust 0.5s normal forwards;
+  }
+
+  .regret {
+    animation: regret 0.5s normal forwards;
+  }
+
+  .novel-character-div {
+    max-width: 50vw;
+  }
+
+  .novel-character-image {
+    max-width: 100%;
+  }
+</style>
+<div class="novel-character-div">
+  <img class="novel-character-image animationStyle" src="imagePath" alt="">
+</div>

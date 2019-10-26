@@ -1,10 +1,10 @@
-# NovelScript-Engine
+# NovelScript
 
-This is my attempt of making a javascript visual novel engine.
+This is my attempt of making a javascript visual novel library.
 
 Now let's get _This_ straight:
 
-- _This_ is an engine to use as a dependency to your project or visual novel.
+- _This_ is an library to use as a dependency to your project or visual novel.
 - _This_ is more like a library and less like an engine but it provides all the necessary tools for creating a complex visual novel.
 - _This_ only helps you create your visual novel and can't do everything by itself.
 - _This_ won't create everything for you.
@@ -17,7 +17,7 @@ Ready to start strong.
 
 ### Can you depend on this project to be done for your visual novel?
 
-No but this should be completed sooner than Incel Highschool since we need a more complex engine than Ren'Py.
+No, but this should be completed sooner than Incel Highschool since we need a more complex engine than Ren'Py.
 
 ### Why make this?
 
@@ -25,7 +25,7 @@ I was having trouble with Ren'Py since I wanted more than just dialogue and a st
 
 ### Is this going to be cross-platform?
 
-Fortunately yes, since Electron and Node.js are cross-platform then this can easily be used as a library in most cases.
+Fortunately yes, since Electron, Node.js and javascript are cross-platform then this can easily be used as a library in most cases.
 
 ### How can I contribute?
 
