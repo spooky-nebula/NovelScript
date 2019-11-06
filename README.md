@@ -17,7 +17,7 @@ Ready to start strong.
 
 ### Can you depend on this project to be done for your visual novel?
 
-No, but this should be completed sooner than Incel Highschool since we need a more complex engine than Ren'Py.
+~No, but this should be completed sooner than Incel Highschool since we need a more complex engine than Ren'Py.~ We are now using Ren'Py because of accessibility.
 
 ### Why make this?
 
