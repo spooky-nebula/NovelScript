@@ -23,7 +23,7 @@
   "homepage": "https://novelscript.spookynebula.com/",
   "dependencies": {
     "@types/jquery": "^3.3.31",
-    "electron": "^6.0.9",
+    "electron": "^7.2.4",
     "electron-packager": "^14.0.6",
     "fs": "0.0.1-security",
     "jquery": "^3.4.1"
